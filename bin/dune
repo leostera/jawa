@@ -1,0 +1,4 @@
+(executable
+ (public_name jawa)
+ (name main)
+ (libraries jawa riot cohttp_riot))
